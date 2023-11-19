@@ -24,8 +24,8 @@ Markdowns scripting was used to describe the relationships illustrated by these 
 
 # API call to Geoapify API: https://myprojects.geoapify.com/api
 
-The API was used to create variouis maps to visualize weather conditions at various geographic locations on a map. 
+The API was used to create various maps to visualize weather conditions at various geographic locations on a map. 
 
 Vacation planning was simulated such that a user could specify their ideal vacation weather conditions. 
 
-Once coordinates that met "specified requirements" were identified, hotel locations were identified within 10,000 meters of coorindates 
+Once coordinates that met "specified requirements" were identified, hotel locations were identified within 10,000 meters of coordinates 
