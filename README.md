@@ -10,7 +10,7 @@ The API was then used to generate a series of scatter plots to illustrate the re
 * Latitude vs. Wind Speed
 
 # Linear regression plots were then computed for the following factors in both the Northern and Southern Hemispheres
-* ![Northern Hemisphere Latitude vs Temperature](./Images/Fig1.png)
+* Northern Hemisphere Latitude vs Temperature
 * Southern Hemisphere: Temperature vs. Latitude
 * Northern Hemisphere: Humidity vs. Latitude
 * Southern Hemisphere: Humidity vs. Latitude
